@@ -78,9 +78,10 @@
         <plugin>
             <groupId>org.codehaus.mojo</groupId>
             <artifactId>exec-maven-plugin</artifactId>
-            <version>3.0.0</version>
+            <version>3.5.0</version>
             <configuration>
                 <mainClass>day02.amazon</mainClass> <!-- Sizin main sınıfınızın tam adı -->
+                <includeTestClasspath>true</includeTestClasspath>
             </configuration>
             <executions>
                 <execution>
