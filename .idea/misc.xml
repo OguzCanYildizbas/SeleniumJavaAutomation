@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectResources">
+    <resource url="http://maven.apache.org/xsd/maven-4.0.0.xsd" location="$USER_HOME$/Downloads/maven-4.0.0.xsd.xml" />
+    <resource url="http://www.w3.org/2001/XMLSchema-instance" location="$USER_HOME$/Downloads/XMLSchema-instance.xml" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="corretto-17" project-jdk-type="JavaSDK" />
+</project>
