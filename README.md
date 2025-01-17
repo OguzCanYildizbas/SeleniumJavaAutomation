@@ -17,7 +17,7 @@ Before running the project, ensure you have set the following environment variab
 - **EMAIL**: Your Amazon login email.
 - **PASSWORD**: Your Amazon login password.
 ## Setup
-1. Clone the repository:
+ Clone the repository:
    ```bash
    git clone https://github.com/OguzCanYildizbas/SeleniumJavaAmazonAutomation.git
    cd SeleniumJavaAmazonAutomation
