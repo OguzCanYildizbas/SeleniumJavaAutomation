@@ -60,20 +60,8 @@
                     <target>17</target>
                 </configuration>
             </plugin>
-
-            <!-- Maven Surefire Plugin (Test çalıştırma için) -->
-           // <plugin>
-              //  <groupId>org.apache.maven.plugins</groupId>
-               // <artifactId>maven-surefire-plugin</artifactId>
-              //  <version>3.1.2</version>
-              //  <configuration>
-                //    <includes>
-                  //      <include>**/amazon.java</include>
-                 //   </includes>
-              //  </configuration>
-         //   </plugin>
         
-        <plugin>
+         <plugin>
             <groupId>org.codehaus.mojo</groupId>
             <artifactId>exec-maven-plugin</artifactId>
             <version>3.5.0</version>
