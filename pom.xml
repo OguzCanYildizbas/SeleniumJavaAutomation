@@ -66,16 +66,8 @@
             <artifactId>exec-maven-plugin</artifactId>
             <version>3.5.0</version>
             <configuration>
-                <mainClass>day02.amazon</mainClass> <!-- Sizin main sınıfınızın tam adı -->
-                <includeTestClasspath>true</includeTestClasspath>
+                <mainClass>day02.amazon</mainClass> <!-- Ana sınıfınızın doğru adı -->
             </configuration>
-            <executions>
-                <execution>
-                    <goals>
-                        <goal>java</goal>
-                    </goals>
-                </execution>
-            </executions>
         </plugin>
                       
     </plugins>
