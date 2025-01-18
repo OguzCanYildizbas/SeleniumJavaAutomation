@@ -68,7 +68,7 @@
                 wait.until(ExpectedConditions.elementToBeClickable(By.xpath("//button[contains(text(), 'In den Einkaufswagen')]"))).click(); 
                 wait.until(ExpectedConditions.elementToBeClickable(By.xpath("//a[contains(text(),\"Einkaufswagen\")]"))).click(); 
                 try {
-                    Thread.sleep(1000); e
+                    Thread.sleep(1000); 
                 } catch (InterruptedException e) {
                     System.out.println("Bekleme işlemi kesintiye uğradı: " + e.getMessage());
                 }
